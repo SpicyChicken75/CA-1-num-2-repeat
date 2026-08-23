@@ -60275,8 +60275,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 3
-  jumpHeight: 3
-  wallJumpForce: 7
+  jumpHeight: 3.5
+  wallJumpForce: 6
   dashSpeed: 10
   dashTime: 0.12
 --- !u!95 &1398127104

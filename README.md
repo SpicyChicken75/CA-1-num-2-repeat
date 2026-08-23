@@ -8,3 +8,4 @@ This game is a basic platformer with a few features. These features consist of: 
 This game has simple buttons, a d, for movement and "space" to jump and then "L shift" to dash. Wall jumping is simply facing a wall and go against it, jump, then turn around and repeat.
 
 The sprites/art I used is all from the asset store and is NOT mine.
+For some code references I have used Moodle resources and W3Schools.
